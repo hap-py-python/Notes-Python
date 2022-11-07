@@ -13,5 +13,8 @@ print(colors_list)
 colors_tuple[3] = 'gray'
 print(colors_tuple) # will not work, gives an error: 'tuple' object does not support item assignment
 
+# Tuples defined by a comma. parenthesis makes it look neater
 
+tuple_colors = 'red', 'pink', 'blue'
+print(tuple_colors)
 
