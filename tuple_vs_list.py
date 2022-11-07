@@ -18,3 +18,6 @@ print(colors_tuple) # will not work, gives an error: 'tuple' object does not sup
 tuple_colors = 'red', 'pink', 'blue'
 print(tuple_colors)
 
+#for only one element in tuple you need to add comma at the end
+
+my_tuple = (3,) 
